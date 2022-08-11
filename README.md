@@ -1,0 +1,1 @@
+# vite-clean-architecture-boilerplate
